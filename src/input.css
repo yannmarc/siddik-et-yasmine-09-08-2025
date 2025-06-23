@@ -1,0 +1,117 @@
+@import './font.css';
+@import "tailwindcss";
+
+@tailwind utilities;
+
+.header-bg-cover {
+    position: relative;
+    background-image: url('../images/flower_backdrop_image.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
+.header-bg-cover::before {
+    content: '';
+    position: absolute;
+    background-color: black;
+    inset: 0;
+    opacity: 0.2;
+    z-index: 0;
+  }
+  
+  .header-bg-cover > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  .font-burgues-script {
+    font-family: 'Burgues Script';
+  }
+  
+  .font-agrandir {
+    font-family: 'Agrandir';
+  }
+  
+  .font-opensauceone {
+    font-family: 'Open Sauce One', sans-serif;
+  }
+  
+  .font-tan-angleton {
+    font-family: 'TAN - Angleton';
+  }
+  
+  .font-eyesome-script {
+    font-family: 'Eyesome Script';
+  }
+
+  .font-tt-ramillas {
+    font-family: 'TT Ramillas Trl';
+  }
+
+  .font-scandilover-script {
+    font-family: 'Scandilover Script';
+  }
+
+  .font-brittany-signature {
+    font-family: 'Brittany Signature';
+  }
+
+  .font-pinyon-script {
+    font-family: 'Pinyon Script';
+  }
+
+  .font-brushscript-mt {
+    font-family: 'Brush Script MT';
+  }
+
+  .font-libra-serif-modern {
+    font-family: 'Libra Serif Modern';
+  }
+
+  .font-safira_march_personal {
+    font-family: 'Safira March Personal Use Only';
+  }
+
+  .font-binggowood {
+    font-family: 'FONTSPRING DEMO - Binggo Wood Display Serif';
+  }
+
+  .font-prata {
+    font-family: 'prata';
+  }
+
+  .font-aileron {
+    font-family: 'Aileron';
+  }
+
+  .font-pinyon-script {
+    font-family: 'Pinyon Script';
+  }
+
+  .font-edlovina {
+    font-family: 'ED Lavonia';
+  }
+
+  .font-poppins {
+    font-family: 'Poppins';
+  }
+
+  .font-vidaloka {
+    font-family: 'Vidaloka';
+  }
+
+  .text-shadow_dec {
+    text-shadow: rgba(255, 255, 255, 0.4) 4.51166px 4.51166px 0px;
+  }
+
+  .red-text {
+    color: #830d0d;
+  }
+
+  .red-bg {
+    background-color: #830d0d;
+  }
+
+  .text-shadow-footer {
+    text-shadow: 0px 1.25002px 9.37516px rgba(0, 0, 0, 0.6);
+  }
