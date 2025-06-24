@@ -61,12 +61,6 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'Burgues Script';
-  src: url('/fonts/BrushScriptOpti-Regular.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
   font-family: 'Brush Script MT';
   src: url('/fonts/BrushScriptStd.otf') format('opentype');
   font-weight: normal;
