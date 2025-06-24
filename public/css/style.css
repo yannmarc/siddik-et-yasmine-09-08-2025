@@ -2,115 +2,115 @@
 @layer properties;
 @font-face {
   font-family: 'Burgues Script';
-  src: url('/fonts/Burgues_Script_Regular.otf') format('otf');
+  src: url('../public/fonts/fonts/Burgues_Script_Regular.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Agrandir';
-  src: url('/fonts/Agrandir-Narrow.otf') format('otf');
+  src: url('../public/fonts/Agrandir-Narrow.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Aileron';
-  src: url('/fonts/Aileron-Bold.otf') format('otf');
+  src: url('../public/fonts/Aileron-Bold.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'OpenSauceOne';
-  src: url('/fonts/OpenSauceOne-Regular.ttf') format('ttf');
+  src: url('../public/fonts/OpenSauceOne-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'TAN-Angleton';
-  src: url('/fonts/TAN-Angleton-Regular.ttf') format('ttf');
+  src: url('./fonts/TAN-Angleton-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Eyesome Script';
-  src: url('/fonts/Eyesome_Script.otf') format('otf');
+  src: url('./fonts/Eyesome_Script.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'TT Ramillas Trl';
-  src: url('/fonts/TT_Ramillas_Trial_Bold.ttf') format('ttf');
+  src: url('./fonts/TT_Ramillas_Trial_Bold.ttf') format('ttf');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Scandilover Script';
-  src: url('/fonts/Scandilover_Script.ttf') format('ttf');
+  src: url('./fonts/Scandilover_Script.ttf') format('ttf');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'BrittanySignature';
-  src: url('/fonts/BrittanySignature.ttf') format('ttf');
+  src: url('./fonts/BrittanySignature.ttf') format('ttf');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'PinyonScript';
-  src: url('/fonts/PinyonScript-Regular.ttf') format('ttf');
+  src: url('./fonts/PinyonScript-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'BrushScriptOpti-Regular';
-  src: url('/fonts/BrushScriptOpti-Regular.otf') format('otf');
+  src: url('./fonts/BrushScriptOpti-Regular.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Brush Script MT';
-  src: url('/fonts/BrushScriptStd.otf') format('otf');
+  src: url('./fonts/BrushScriptStd.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Libra Serif Modern';
-  src: url('/fonts/LibraSerifModern-Bold.otf') format('otf');
+  src: url('./fonts/LibraSerifModern-Bold.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'FONTSPRING DEMO - Binggo Wood Display Serif';
-  src: url('/fonts/demo-binggo-wood-display.otf') format('otf');
+  src: url('./fonts/demo-binggo-wood-display.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'PinyonScript-Regular';
-  src: url('/fonts/PinyonScript-Regular.ttf') format('otf');
+  src: url('./fonts/PinyonScript-Regular.ttf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Prata';
-  src: url('/fonts/Prata-Regular.ttf') format('otf');
+  src: url('./fonts/Prata-Regular.ttf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Safira March Personal Use Only';
-  src: url('/fonts/Safira March Personal Use Only.ttf') format('otf');
+  src: url('./fonts/Safira March Personal Use Only.ttf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'ed-lavonia-regular';
-  src: url('/fonts/ed-lavonia-regular.otf') format('otf');
+  src: url('./fonts/ed-lavonia-regular.otf') format('otf');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'vidaloka';
-  src: url('/fonts/Vidaloka-Regular.ttf') format('ttf');
+  src: url('./fonts/Vidaloka-Regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
@@ -295,35 +295,14 @@
   .top-\[-80px\] {
     top: -80px;
   }
-  .top-\[-100px\] {
-    top: -100px;
-  }
-  .top-\[-200px\] {
-    top: -200px;
-  }
-  .top-\[-300px\] {
-    top: -300px;
-  }
-  .top-\[-330px\] {
-    top: -330px;
-  }
-  .top-\[-340px\] {
-    top: -340px;
-  }
   .top-\[-350px\] {
     top: -350px;
-  }
-  .top-\[-540px\] {
-    top: -540px;
   }
   .top-\[1\%\] {
     top: 1%;
   }
   .top-\[20px\] {
     top: 20px;
-  }
-  .top-\[100px\] {
-    top: 100px;
   }
   .right-0 {
     right: calc(var(--spacing) * 0);
@@ -950,9 +929,6 @@
   .underline {
     text-decoration-line: underline;
   }
-  .opacity-15 {
-    opacity: 15%;
-  }
   .opacity-20 {
     opacity: 20%;
   }
@@ -1083,24 +1059,9 @@
       top: -20%;
     }
   }
-  .md\:top-\[-69px\] {
-    @media (width >= 48rem) {
-      top: -69px;
-    }
-  }
-  .md\:top-\[-120px\] {
-    @media (width >= 48rem) {
-      top: -120px;
-    }
-  }
   .md\:top-\[-140px\] {
     @media (width >= 48rem) {
       top: -140px;
-    }
-  }
-  .md\:top-\[-600px\] {
-    @media (width >= 48rem) {
-      top: -600px;
     }
   }
   .md\:top-\[-680px\] {
@@ -1108,64 +1069,9 @@
       top: -680px;
     }
   }
-  .md\:top-\[-690px\] {
-    @media (width >= 48rem) {
-      top: -690px;
-    }
-  }
-  .md\:top-\[-700px\] {
-    @media (width >= 48rem) {
-      top: -700px;
-    }
-  }
-  .md\:top-\[-710px\] {
-    @media (width >= 48rem) {
-      top: -710px;
-    }
-  }
-  .md\:top-\[-720px\] {
-    @media (width >= 48rem) {
-      top: -720px;
-    }
-  }
-  .md\:top-\[-730px\] {
-    @media (width >= 48rem) {
-      top: -730px;
-    }
-  }
-  .md\:top-\[-750px\] {
-    @media (width >= 48rem) {
-      top: -750px;
-    }
-  }
-  .md\:top-\[-800px\] {
-    @media (width >= 48rem) {
-      top: -800px;
-    }
-  }
-  .md\:top-\[800px\] {
-    @media (width >= 48rem) {
-      top: 800px;
-    }
-  }
-  .md\:right-\[-70px\] {
-    @media (width >= 48rem) {
-      right: -70px;
-    }
-  }
-  .md\:right-\[-80px\] {
-    @media (width >= 48rem) {
-      right: -80px;
-    }
-  }
   .md\:right-\[-100px\] {
     @media (width >= 48rem) {
       right: -100px;
-    }
-  }
-  .md\:right-\[20px\] {
-    @media (width >= 48rem) {
-      right: 20px;
     }
   }
   .md\:right-\[67px\] {
@@ -1178,19 +1084,9 @@
       right: 80px;
     }
   }
-  .md\:bottom-\[30px\] {
-    @media (width >= 48rem) {
-      bottom: 30px;
-    }
-  }
   .md\:bottom-\[40px\] {
     @media (width >= 48rem) {
       bottom: 40px;
-    }
-  }
-  .md\:bottom-\[60px\] {
-    @media (width >= 48rem) {
-      bottom: 60px;
     }
   }
   .md\:left-\[45\%\] {
@@ -1218,21 +1114,6 @@
       margin-inline: auto;
     }
   }
-  .md\:mt-\[-55px\] {
-    @media (width >= 48rem) {
-      margin-top: -55px;
-    }
-  }
-  .md\:mt-\[-75px\] {
-    @media (width >= 48rem) {
-      margin-top: -75px;
-    }
-  }
-  .md\:mt-\[-85px\] {
-    @media (width >= 48rem) {
-      margin-top: -85px;
-    }
-  }
   .md\:mt-\[-95px\] {
     @media (width >= 48rem) {
       margin-top: -95px;
@@ -1246,11 +1127,6 @@
   .md\:mt-\[20px\] {
     @media (width >= 48rem) {
       margin-top: 20px;
-    }
-  }
-  .md\:ml-\[-30px\] {
-    @media (width >= 48rem) {
-      margin-left: -30px;
     }
   }
   .md\:ml-\[30px\] {
@@ -1276,16 +1152,6 @@
   .md\:h-\[267\.64px\] {
     @media (width >= 48rem) {
       height: 267.64px;
-    }
-  }
-  .md\:h-\[950px\] {
-    @media (width >= 48rem) {
-      height: 950px;
-    }
-  }
-  .md\:h-\[1050px\] {
-    @media (width >= 48rem) {
-      height: 1050px;
     }
   }
   .md\:h-\[1550px\] {
@@ -1360,29 +1226,9 @@
       width: 100%;
     }
   }
-  .md\:max-w-\[100px\] {
-    @media (width >= 48rem) {
-      max-width: 100px;
-    }
-  }
   .md\:max-w-\[120px\] {
     @media (width >= 48rem) {
       max-width: 120px;
-    }
-  }
-  .md\:max-w-\[140px\] {
-    @media (width >= 48rem) {
-      max-width: 140px;
-    }
-  }
-  .md\:max-w-\[375\.63px\] {
-    @media (width >= 48rem) {
-      max-width: 375.63px;
-    }
-  }
-  .md\:max-w-\[390\.63px\] {
-    @media (width >= 48rem) {
-      max-width: 390.63px;
     }
   }
   .md\:max-w-\[400\.63px\] {
@@ -1461,11 +1307,6 @@
       padding-block: calc(var(--spacing) * 8);
     }
   }
-  .md\:py-10 {
-    @media (width >= 48rem) {
-      padding-block: calc(var(--spacing) * 10);
-    }
-  }
   .md\:pt-0 {
     @media (width >= 48rem) {
       padding-top: calc(var(--spacing) * 0);
@@ -1484,11 +1325,6 @@
   .md\:text-center {
     @media (width >= 48rem) {
       text-align: center;
-    }
-  }
-  .md\:text-\[7\.29px\] {
-    @media (width >= 48rem) {
-      font-size: 7.29px;
     }
   }
   .md\:text-\[12\.5px\] {
@@ -1656,11 +1492,6 @@
       font-size: 173px;
     }
   }
-  .md\:text-\[12\.5p\] {
-    @media (width >= 48rem) {
-      color: 12.5p;
-    }
-  }
   .lg\:top-\[-540px\] {
     @media (width >= 64rem) {
       top: -540px;
@@ -1676,16 +1507,6 @@
       display: flex;
     }
   }
-  .lg\:h-\[133\.73px\] {
-    @media (width >= 64rem) {
-      height: 133.73px;
-    }
-  }
-  .lg\:w-\[100px\] {
-    @media (width >= 64rem) {
-      width: 100px;
-    }
-  }
   .lg\:w-\[361\.3px\] {
     @media (width >= 64rem) {
       width: 361.3px;
@@ -1694,11 +1515,6 @@
   .lg\:max-w-\[120px\] {
     @media (width >= 64rem) {
       max-width: 120px;
-    }
-  }
-  .lg\:max-w-\[300px\] {
-    @media (width >= 64rem) {
-      max-width: 300px;
     }
   }
   .lg\:max-w-\[800px\] {
