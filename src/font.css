@@ -27,7 +27,7 @@
   }
   
   @font-face {
-    font-family: 'TAN-Angleton';
+    font-family: 'TAN - Angleton';
     src: url('/fonts/TAN-Angleton-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -69,7 +69,7 @@
   }
 
   @font-face {
-    font-family: 'BrushScriptOpti-Regular';
+    font-family: 'Burgues Script';
     src: url('/fonts/BrushScriptOpti-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
@@ -97,7 +97,7 @@
   }
 
   @font-face {
-    font-family: 'PinyonScript-Regular';
+    font-family: 'Pinyon Script';
     src: url('/fonts/PinyonScript-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -118,7 +118,7 @@
   }
 
   @font-face {
-    font-family: 'ed-lavonia-regular';
+    font-family: 'ED Lavonia';
     src: url('/fonts/ed-lavonia-regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
