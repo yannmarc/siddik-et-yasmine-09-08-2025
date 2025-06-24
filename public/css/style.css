@@ -19,13 +19,13 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'Open Sauce One';
+  font-family: 'OpenSauceOne';
   src: url('/fonts/OpenSauceOne-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'TAN - Angleton';
+  font-family: 'TAN-Angleton';
   src: url('/fonts/TAN-Angleton-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
@@ -49,7 +49,7 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'Brittany Signature';
+  font-family: 'BrittanySignature';
   src: url('/fonts/BrittanySignature.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
@@ -1565,10 +1565,10 @@
   font-family: 'Agrandir';
 }
 .font-opensauceone {
-  font-family: 'OpenSauceOne',;
+  font-family: 'Open Sauce One',;
 }
 .font-tan-angleton {
-  font-family: 'TAN-Angleton';
+  font-family: 'TAN - Angleton';
 }
 .font-eyesome-script {
   font-family: 'Eyesome Script';
