@@ -2,7 +2,7 @@
 @layer properties;
 @font-face {
   font-family: 'Burgues Script';
-  src: url('/fonts/fonts/Burgues_Script_Regular.otf') format('opentype');
+  src: url('/fonts/Burgues_Script_Regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
