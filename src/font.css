@@ -1,132 +1,132 @@
     @font-face {
     font-family: 'Burgues Script';
-    src: url('/fonts/Burgues_Script_Regular.otf') format('otf');
+    src: url('../fonts/Burgues_Script_Regular.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'Agrandir';
-    src: url('/fonts/Agrandir-Narrow.otf') format('otf');
+    src: url('../fonts/Agrandir-Narrow.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Aileron';
-    src: url('/fonts/Aileron-Bold.otf') format('otf');
+    src: url('../fonts/Aileron-Bold.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'OpenSauceOne';
-    src: url('/fonts/OpenSauceOne-Regular.ttf') format('ttf');
+    src: url('../fonts/OpenSauceOne-Regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'TAN-Angleton';
-    src: url('/fonts/TAN-Angleton-Regular.ttf') format('ttf');
+    src: url('../fonts/TAN-Angleton-Regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Eyesome Script';
-    src: url('/fonts/Eyesome_Script.otf') format('otf');
+    src: url('../fonts/Eyesome_Script.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'TT Ramillas Trl';
-    src: url('/fonts/TT_Ramillas_Trial_Bold.ttf') format('ttf');
+    src: url('../fonts/TT_Ramillas_Trial_Bold.ttf') format('ttf');
     font-weight: 700;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Scandilover Script';
-    src: url('/fonts/Scandilover_Script.ttf') format('ttf');
+    src: url('../fonts/Scandilover_Script.ttf') format('ttf');
     font-weight: 700;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'BrittanySignature';
-    src: url('/fonts/BrittanySignature.ttf') format('ttf');
+    src: url('../fonts/BrittanySignature.ttf') format('ttf');
     font-weight: 700;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'PinyonScript';
-    src: url('/fonts/PinyonScript-Regular.ttf') format('ttf');
+    src: url('../fonts/PinyonScript-Regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'BrushScriptOpti-Regular';
-    src: url('/fonts/BrushScriptOpti-Regular.otf') format('otf');
+    src: url('../fonts/BrushScriptOpti-Regular.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Brush Script MT';
-    src: url('/fonts/BrushScriptStd.otf') format('otf');
+    src: url('../fonts/BrushScriptStd.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Libra Serif Modern';
-    src: url('/fonts/LibraSerifModern-Bold.otf') format('otf');
+    src: url('../fonts/LibraSerifModern-Bold.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'FONTSPRING DEMO - Binggo Wood Display Serif';
-    src: url('/fonts/demo-binggo-wood-display.otf') format('otf');
+    src: url('../fonts/demo-binggo-wood-display.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'PinyonScript-Regular';
-    src: url('/fonts/PinyonScript-Regular.ttf') format('otf');
+    src: url('../fonts/PinyonScript-Regular.ttf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Prata';
-    src: url('/fonts/Prata-Regular.ttf') format('otf');
+    src: url('../fonts/Prata-Regular.ttf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'Safira March Personal Use Only';
-    src: url('/fonts/Safira March Personal Use Only.ttf') format('otf');
+    src: url('../fonts/Safira March Personal Use Only.ttf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'ed-lavonia-regular';
-    src: url('/fonts/ed-lavonia-regular.otf') format('otf');
+    src: url('../fonts/ed-lavonia-regular.otf') format('otf');
     font-weight: normal;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'vidaloka';
-    src: url('/fonts/Vidaloka-Regular.ttf') format('ttf');
+    src: url('../fonts/Vidaloka-Regular.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
   }
